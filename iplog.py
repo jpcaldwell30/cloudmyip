@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 #Written for python 2.x using google drive REST api v3 (https://developers.google.com/drive/v3/web/about-sdk)
-#This program gets your public and private ip address and compares them everytime it is run. If they have changed since the last time it was run, it creats/updates a file with the new info and uploads it to #Google drive
+#This program gets your public and private ip address and compares them everytime it is run. If they have changed since the last time it was run, it creats/updates a file with the new info and uploads it to Google drive
 import httplib2
 import os
 import time
