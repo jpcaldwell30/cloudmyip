@@ -1,2 +1,2 @@
 # cloudmyip
-Python script to get your public ip and upload it to your google drive account if it has changed. To be ran by cron or some other schedule utility however often you want to check for ip updates. 
+Python script to get public IP and upload it to a Google Drive account if it has been changed. Can be ran by cron or other scheduling utility to periodically check for updates.
